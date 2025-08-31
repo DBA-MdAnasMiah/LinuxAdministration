@@ -593,7 +593,8 @@ Example:
   `systemctl status ssl` *(if using a separate SSL service)*
 
 
-
+Check out the drive for more details:
+https://docs.google.com/document/d/15kGbHrxBAnVexSueR3TtDi-PN5NZAfO5QMeywTR7k9o/edit?tab=t.0
 
 
 
